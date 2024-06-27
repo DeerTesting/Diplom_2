@@ -12,6 +12,6 @@ public class Order {
     public Order(List<String> ingredients){
         this.ingredients = ingredients;
     }
-    public Order(){};
+    public Order(){}
 
 }
